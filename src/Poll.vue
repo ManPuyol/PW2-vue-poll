@@ -17,6 +17,9 @@
     Rust: 0,
   });
   
-//TODO.........
+  const addVote = (option) => {
+    pollOptions[option]++
+  }
+
   </script>
   
